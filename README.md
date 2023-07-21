@@ -14,7 +14,7 @@ I am especially interested in Computer Vision & Recommender System.
 
 <br>
 
-### 🙍🏻‍♂️ Profile
+## 📌 Profile
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
 [![Blog](https://img.shields.io/badge/Velog-339933?style=flat-square&logo=Tistory&logoColor=white)](https://my-sticalnd.tistory.com/)
 [![Mail](https://img.shields.io/badge/gunha8147@kookmin.ac.kr-02303A?style=flat-square&logo=Gmail&logoColor=white)](gunha8147@kookmin.ac.kr)
@@ -22,7 +22,7 @@ I am especially interested in Computer Vision & Recommender System.
 <br>
 
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/>
 
 - <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
@@ -35,7 +35,7 @@ I am especially interested in Computer Vision & Recommender System.
 <br>
 
 
-### 📝 Education
+## 📚 Education
 |Dates Attended|Degree|Institution|Field of Study|Remarks|
 |:---:|:---:|:---:|:---:|:---:|
 |March 2016 ~ February 2024|Bachelor(Major, Primary)|Kookmin Univ.| Public Administration|Attending|
@@ -45,7 +45,7 @@ I am especially interested in Computer Vision & Recommender System.
 <br>
 
 
-### 🏆 Contest
+## 🏆 Contest
 |Year|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |2022|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
@@ -53,13 +53,13 @@ I am especially interested in Computer Vision & Recommender System.
 
 <br>
 
-### 💻 Project
+### 👨🏻‍💻 Project
 |Year|Name|Tags|Link|
 |:---:|:---:|:---:|:---:|
 
 <br>
 
-### 📜 Certificate
+### 📝 Certificate
 |Acquisition year | Name| Administration|Validity|
 |:---:|:---:|:---:|:---:|
 |2022|파이썬프로그래밍 활용능력 2급|한국정보인재개발원|영구|
