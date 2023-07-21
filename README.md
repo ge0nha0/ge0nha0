@@ -45,7 +45,7 @@ I am especially interested in Computer Vision & Recommender System.
 <br>
 
 
-### 🏆 대회
+### 🏆 Contest
 |Year|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |2022|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
