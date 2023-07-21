@@ -66,4 +66,4 @@ I am especially interested in Computer Vision & Recommender System.
 |2021|컴퓨터활용능력 1급|대한상공회의소|영구|
 |2021|데이터분석 준전문가(ADsP)|한국데이터산업진흥원|영구|
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
