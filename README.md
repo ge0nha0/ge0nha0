@@ -21,5 +21,5 @@ I am especially interested in Computer Vision & Recommender System.
 
 - <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
-- <img src="https://img.shields.io/badge/Mac-#CD5C5C?style=flat&logo=Macos&logoColor=white"/> <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/> 
+- <img src="https://img.shields.io/badge/Mac-DD0031?style=flat&logo=Macos&logoColor=white"/> <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/> 
 
