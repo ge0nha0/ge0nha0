@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ## Hi there 👋
 
 Hello, I'm Hwang Geon-ha, who organizes up to [a-zA-Z] to become a data scientist.
@@ -42,10 +45,10 @@ I am especially interested in Computer Vision & Recommender System.
 
 
 ### 🏆 대회
-|연도|대회명|프로젝트|수상|링크|
+|Year|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2022|KML 2022F Final Exam|DNN 모델 성능 Competition|13위|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">링크</a>|
-|2022|KML Challenge 2022F|연봉 예측 Competition|9위|<a href="https://www.kaggle.com/competitions/kml2022f" target="_blank">링크</a>|
+|2022|KML 2022F Final Exam|DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
+|2022|KML Challenge 2022F|Salary Prediction Competition|9th|<a href="https://www.kaggle.com/competitions/kml2022f" target="_blank">Link</a>|
 
 <br>
 
@@ -58,7 +61,8 @@ I am especially interested in Computer Vision & Recommender System.
 ### 📜 Certificate
 |Acquisition year|Name|administration|Validity|
 |:---:|:---:|:---:|:---:|
+|2022|파이썬프로그래밍 활용능력 2급|한국정보인재개발원|영구|
 |2021|컴퓨터활용능력 1급|대한상공회의소|영구|
 |2021|데이터분석 준전문가(ADsP)|한국데이터산업진흥원|영구|
-|2022|파이썬프로그래밍 활용능력 2급|한국정보인재개발원|영구|
+
 
