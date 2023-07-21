@@ -1,5 +1,4 @@
-![header]"https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GeonHa's%20Github!&fontSize=90")
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20GeonHa's%20Github!&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
 
 
 
