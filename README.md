@@ -1,22 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-Hello, I'm GeonHa Hwang, dreaming of becoming a Data Scientist specializing in Computer Vision & Recommender System :D
+Hello, I'm Hwang Geon-ha, who organizes up to [a-zA-Z] to become a data scientist.
 
 I am going to graduate from Kookmin University in February 2024,
 
 major in Public Administration, and double major in AI Big Data & Management.
 
-<!--
-**ge0nha0/ge0nha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am especially interested in Computer Vision & Recommender System.
 
-Here are some ideas to get you started:
+### 🙍🏻‍♂️ Profile
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
+[![Blog](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@9e0na)
+[![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](gunha8147@kookmin.ac.kr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>  <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=MicrosoftTeams&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+
+- <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=Macos&logoColor=white"/> 
+
