@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hello, I'm GeonHa Hwang, dreaming of becoming a Data Scientist specializing in Computer Vision & Recommender System :D
+
+I am going to graduate from Kookmin University in February 2024,
+
+major in Public Administration, and double major in AI Big Data & Management.
+
 <!--
 **ge0nha0/ge0nha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
