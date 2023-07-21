@@ -11,7 +11,7 @@ I am especially interested in Computer Vision & Recommender System.
 ### 🙍🏻‍♂️ Profile
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
 [![Blog](https://img.shields.io/badge/Velog-339933?style=flat-square&logo=Tistory&logoColor=white)](https://my-sticalnd.tistory.com/)
-[![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](gunha8147@kookmin.ac.kr)
+[![Mail](https://img.shields.io/badge/gjunha8147@kookmin.ac.kr-02303A?style=flat-square&logo=Gmail&logoColor=white)](gunha8147@kookmin.ac.kr)
 
 ### 🛠 Tech Stack
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/>
