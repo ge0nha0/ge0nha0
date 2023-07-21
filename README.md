@@ -39,7 +39,7 @@ I am especially interested in Computer Vision & Recommender System.
 |Dates Attended|Degree|Institution|Field of Study|Remarks|
 |:---:|:---:|:---:|:---:|:---:|
 |March 2016 ~ February 2024|Bachelor(Major, Primary)|Kookmin Univ.| Public Administration|Attending|
-|September 2021 ~ February 2024|Bachelor(Major, Secondary)|Kookmin Univ.|AI Big Data & Management|Attending|
+|September 2021 ~ <br>February 2024|Bachelor(Major, Secondary)|Kookmin Univ.|AI Big Data & Management|Attending|
 
 
 <br>
