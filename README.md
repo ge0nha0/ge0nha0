@@ -58,6 +58,11 @@ I am especially interested in Computer Vision & Recommender System.
 ## 👨🏻‍💻 Project
 |Year|Name|Tags|Link|
 |:---:|:---:|:---:|:---:|
+|2023|Wconcept 크롤링를 활용한 Fashion Classification|CV, Crawling|To be uploaded|
+|2023|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP,Data Analysis|To be uploaded|
+|2022|신용카드 대금 연체 정도 예측|ML, Data Analysis|To be uploaded|
+|2022|우리나라 업종별, 에너지원별 온시가스 배출량 현황 및 시사점|Data Analysis, Visualization| To be uploaded|
+|2022|COVID19 집단감염의 추이로 본 정책의 효과|Data Analysis, Visualization|To be uploaded|
 
 <br>
 
