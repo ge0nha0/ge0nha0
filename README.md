@@ -48,7 +48,7 @@ I am especially interested in Computer Vision & Recommender System.
 ### 🏆 대회
 |Year|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2022|KML 2022F Final Exam| DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
+|2022|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
 |2022|KML Challenge 2022F|Salary Prediction Competition|9th|<a href="https://www.kaggle.com/competitions/kml2022f" target="_blank">Link</a>|
 
 <br>
@@ -60,7 +60,7 @@ I am especially interested in Computer Vision & Recommender System.
 <br>
 
 ### 📜 Certificate
-|Acquisition year|Name|administration|Validity|
+|Acquisition year| Name| Administration|Validity|
 |:---:|:---:|:---:|:---:|
 |2022|파이썬프로그래밍 활용능력 2급|한국정보인재개발원|영구|
 |2021|컴퓨터활용능력 1급|대한상공회의소|영구|
