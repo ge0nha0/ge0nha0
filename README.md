@@ -1,6 +1,7 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GeonHa's%20Github!&fontSize=90" />	
-</div>
+![header]"https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GeonHa's%20Github!&fontSize=90")
+
+
+
 
 ## Hi there 👋
 
