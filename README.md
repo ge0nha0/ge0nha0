@@ -10,7 +10,7 @@ I am especially interested in Computer Vision & Recommender System.
 
 ### 🙍🏻‍♂️ Profile
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
-[![Blog](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@9e0na)
+<a href="https://velog.io/@9e0na" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](gunha8147@kookmin.ac.kr)
 
 ### 🛠 Tech Stack
