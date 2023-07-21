@@ -8,14 +8,14 @@ major in Public Administration, and double major in AI Big Data & Management.
 
 I am especially interested in Computer Vision & Recommender System.
 
-<br/>
+<br>
 
 ### 🙍🏻‍♂️ Profile
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
 [![Blog](https://img.shields.io/badge/Velog-339933?style=flat-square&logo=Tistory&logoColor=white)](https://my-sticalnd.tistory.com/)
 [![Mail](https://img.shields.io/badge/gjunha8147@kookmin.ac.kr-02303A?style=flat-square&logo=Gmail&logoColor=white)](gunha8147@kookmin.ac.kr)
 
-<br/> 
+<br>
 
 
 ### 🛠 Tech Stack
@@ -28,7 +28,7 @@ I am especially interested in Computer Vision & Recommender System.
 
 - <img src="https://img.shields.io/badge/Mac-DD0031?style=flat&logo=Macos&logoColor=white"/> <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/> 
 
-<br/>
+<br>
 
 
 ### 📝 Education
@@ -38,7 +38,7 @@ I am especially interested in Computer Vision & Recommender System.
 |September 2021 ~ February 2024|Bachelor(Major, Secondary)|Kookmin Univ.|AI,BigData & Management||
 
 
-<br/>
+<br>
 
 
 ### 🏆 대회
@@ -47,13 +47,13 @@ I am especially interested in Computer Vision & Recommender System.
 |2022|KML 2022F Final Exam|DNN 모델 성능 Competition|13위|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">링크</a>|
 |2022|KML Challenge 2022F|연봉 예측 Competition|9위|<a href="https://www.kaggle.com/competitions/kml2022f" target="_blank">링크</a>|
 
-<br/>
+<br>
 
 ### 💻 Project
 |Year|Name|Tags|Link|
 |:---:|:---:|:---:|:---:|
 
-<br/>
+<br>
 
 ### 📜 Certificate
 |Acquisition year|Name|administration|Validity|
