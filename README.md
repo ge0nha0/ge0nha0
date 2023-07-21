@@ -38,8 +38,8 @@ I am especially interested in Computer Vision & Recommender System.
 ### 📝 Education
 |Dates Attended|Degree|Institution|Field of Study|Remarks|
 |:---:|:---:|:---:|:---:|:---:|
-|March 2016 ~ February 2024|Bachelor(Major, Primary)|Kookmin Univ.|Public Administration||
-|September 2021 ~ February 2024|Bachelor(Major, Secondary)|Kookmin Univ.|AI,BigData & Management||
+|March 2016 ~ February 2024|Bachelor(Major, Primary)|Kookmin Univ.| Public Administration|Attending|
+|September 2021 ~ February 2024|Bachelor(Major, Secondary)|Kookmin Univ.|AI Big Data & Management|Attending|
 
 
 <br>
@@ -48,7 +48,7 @@ I am especially interested in Computer Vision & Recommender System.
 ### 🏆 대회
 |Year|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2022|KML 2022F Final Exam|DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
+|2022|KML 2022F Final Exam| DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
 |2022|KML Challenge 2022F|Salary Prediction Competition|9th|<a href="https://www.kaggle.com/competitions/kml2022f" target="_blank">Link</a>|
 
 <br>
