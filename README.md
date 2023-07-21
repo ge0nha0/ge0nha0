@@ -48,8 +48,8 @@ I am especially interested in Computer Vision & Recommender System.
 ## 🏆 Contest
 |Year|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|2023|고용노동부 제2회 고용노동 공공데이터 활용 제품 및 서비스 개발|KoBERT를 활용한 유사한 채용공고 추천시스템 개발|-ing|To be uploaded|
-|2023|경찰대학교 치안정책연구소 제1회 지역 치안 안전 데이터 분석|충청남도 ⋅대전시 ⋅세종시의 사고다발지역 분석|X|To be uploaded|
+|2023|고용노동부 제2회 고용노동 공공데이터 활용 <br> 제품 및 서비스 개발|KoBERT를 활용한 유사한 채용공고 추천시스템 개발|-ing|To be uploaded|
+|2023|경찰대학교 치안정책연구소 제1회 지역 치안 <br> 안전 데이터 분석|충청남도 ⋅대전시 ⋅세종시의 사고다발지역 분석|X|To be uploaded|
 |2022|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://www.kaggle.com/competitions/kml2022f-exam" target="_blank">Link</a>|
 |2022|KML Challenge 2022F |Salary Prediction Competition|9th|<a href="https://www.kaggle.com/competitions/kml2022f" target="_blank">Link</a>|
 
