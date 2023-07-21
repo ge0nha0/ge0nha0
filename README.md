@@ -53,13 +53,13 @@ I am especially interested in Computer Vision & Recommender System.
 
 <br>
 
-### 👨🏻‍💻 Project
+## 👨🏻‍💻 Project
 |Year|Name|Tags|Link|
 |:---:|:---:|:---:|:---:|
 
 <br>
 
-### 📝 Certificate
+## 📝 Certificate
 |Acquisition year | Name| Administration|Validity|
 |:---:|:---:|:---:|:---:|
 |2022|파이썬프로그래밍 활용능력 2급|한국정보인재개발원|영구|
