@@ -59,7 +59,7 @@ I am especially interested in Computer Vision & Recommender System.
 |Year|Name|Tags|Link|
 |:---:|:---:|:---:|:---:|
 |2023|Wconcept 크롤링를 활용한 Fashion Classification|CV, Crawling|To be uploaded|
-|2023|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP,Data Analysis|To be uploaded|
+|2023|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP,Data Analysis,API|To be uploaded|
 |2022|신용카드 대금 연체 정도 예측|ML, Data Analysis|To be uploaded|
 |2022|우리나라 업종별, 에너지원별 온시가스 배출량 현황 및 시사점|Data Analysis, Visualization| To be uploaded|
 |2022|COVID19 집단감염의 추이로 본 정책의 효과|Data Analysis, Visualization|To be uploaded|
@@ -70,7 +70,7 @@ I am especially interested in Computer Vision & Recommender System.
 |Acquisition year | Name| Administration|Validity|
 |:---:|:---:|:---:|:---:|
 |2022|파이썬프로그래밍 활용능력 2급|한국정보인재개발원|영구|
-|2021|컴퓨터활용능력 1급|대한상공회의소|영구|
 |2021|데이터분석 준전문가(ADsP)|한국데이터산업진흥원|영구|
+|2021|컴퓨터활용능력 1급|대한상공회의소|영구|
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
