@@ -61,7 +61,7 @@ I am especially interested in Computer Vision & Recommender System.
 |2023|Wconcept 크롤링를 활용한 Fashion Classification|CV, Crawling|To be uploaded|
 |2023|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP,Data Analysis,API|To be uploaded|
 |2022|신용카드 대금 연체 정도 예측|ML, Data Analysis|To be uploaded|
-|2022|우리나라 업종별, 에너지원별 온시가스 배출량 현황 및 시사점|Data Analysis, Visualization| To be uploaded|
+|2022|우리나라 업종별, 에너지원별 온시가스 배출량 현황 및 시사점|Data Analysis, Visualization|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%97%85%EC%A2%85%EB%B3%84%2C%EC%97%90%EB%84%88%EC%A7%80%EC%9B%90%EB%B3%84%20%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%20%EB%B0%B0%EC%B6%9C%EB%9F%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%202022.06">Link</a>|
 |2022|COVID19 집단감염의 추이로 본 정책의 효과|Data Analysis, Visualization|To be uploaded|
 
 <br>
