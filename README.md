@@ -57,7 +57,7 @@ I am especially interested in Computer Vision & Recommender System.
 
 ## 👨🏻‍💻 Project
 |Supervision|Name|Tags|Link|
-|:---:|:---:|:---:|:---:|
+|:---|:---:|:---:|:---:|
 |[Toy project]|Wconcept 크롤링를 활용한 Fashion Classification|CV, Crawling|To be uploaded|
 |[전공] 텍스트데이터분석|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP, Data Analysis, API|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%89%B4%EC%8A%A4%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%A8%EC%85%98%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EB%B6%84%EC%84%9D%202023.06">Link</a>|
 |[전공] 딥러닝|AECBERT를 활용한 워크넷 구인구직 추천시스템 아이디어 기획|DL, Rec|To be uploaded|
