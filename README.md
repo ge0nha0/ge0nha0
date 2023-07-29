@@ -60,14 +60,14 @@ I am especially interested in Computer Vision & Recommender System.
 |:---:|:---:|:---:|:---:|
 |[Toy project] 딥러닝|Wconcept 크롤링를 활용한 Fashion Classification|CV|To be uploaded|
 |[전공] 텍스트데이터분석|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%89%B4%EC%8A%A4%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%A8%EC%85%98%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EB%B6%84%EC%84%9D%202023.06">Link</a>|
-|[전공] 딥러닝|AECBERT를 활용한 워크넷 구인구직 추천시스템 기획|RS|To be uploaded|
-|[전공] 사회과학조사방법론|걷기 일수가 건강 관련 삶의 질(HINT-8)지수에 미치는 영향|SPSS|To be uploaded|
+|[전공] 딥러닝|AECBERT를 활용한 워크넷 구인구직 추천시스템 기획|RS|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20AECBERT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9B%8C%ED%81%AC%EB%84%B7%20%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%ED%9A%8D">Link</a>|
+|[전공] 사회과학조사방법론|걷기 일수가 건강 관련 삶의 질(HINT-8)지수에 미치는 영향|SPSS|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B1%B7%EA%B8%B0%20%EC%9D%BC%EC%88%98%EA%B0%80%20%EA%B1%B4%EA%B0%95%20%EA%B4%80%EB%A0%A8%20%EC%82%B6%EC%9D%98%20%EC%A7%88(HINT-8)%EC%A7%80%EC%88%98%EC%97%90%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%98%81%ED%96%A5">Link</a>|
 |[교내 학회] D&A|신용카드 대금 연체 정도 예측|ML|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%8C%80%EA%B8%88%20%EC%97%B0%EC%B2%B4%20%EC%A0%95%EB%8F%84%20%EC%98%88%EC%B8%A1">Link</a>|
 |[전공] 머신러닝|Categorical Feature Encoding|ML|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20Categorical%20Feature%20Encoding">Link</a>|
 |[전공] 빅데이터처리와시각화|우리나라 업종별, 에너지원별 온실가스 배출량 데이터분석|Data Analysis|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%97%85%EC%A2%85%EB%B3%84%2C%EC%97%90%EB%84%88%EC%A7%80%EC%9B%90%EB%B3%84%20%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%20%EB%B0%B0%EC%B6%9C%EB%9F%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%202022.06">Link</a>|
 |[교내 학회] D&A|COVID19 집단감염의 추이로 본 정책의 효과|Data Analysis|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20COVID19%20%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%8E%E1%85%AE%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%20%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%AD%E1%84%80%E1%85%AA">Link</a>|
-|[전공] 공간빅데이터분석|마포구 생존 맛집분석|QGIS|To be uploaded|
-|[전공] 회귀분석|성인근로자의 근무형태·수면시간이 건강 관련 삶의 지수에 미치는 영향|R|To be uploaded|
+|[전공] 공간빅데이터분석|마포구 생존 맛집분석|QGIS|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%83%9D%EC%A1%B4%20%EB%A7%9B%EC%A7%91%EB%B6%84%EC%84%9D">Link</a>|
+|[전공] 회귀분석|성인근로자의 근무형태·수면시간이 건강 관련 삶의 지수에 미치는 영향|R|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%84%B1%EC%9D%B8%EA%B7%BC%EB%A1%9C%EC%9E%90%EC%9D%98%20%EA%B7%BC%EB%AC%B4%ED%98%95%ED%83%9C%C2%B7%EC%88%98%EB%A9%B4%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EA%B1%B4%EA%B0%95%20%EA%B4%80%EB%A0%A8%20%EC%82%B6%EC%9D%98%20%EC%A7%80%EC%88%98%EC%97%90%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%98%81%ED%96%A5">Link</a>|
 |[교내 동아리] KCC|Snake Game|PYGAME|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20snake%20game">Link</a>|
 
 <br>
