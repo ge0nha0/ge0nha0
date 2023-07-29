@@ -48,7 +48,7 @@ I am especially interested in Computer Vision & Recommender System.
 ## 🏆 Contest
 |Supervision|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|[고용노동부]|제2회 고용노동 공공데이터 활용 제품 및 서비스 개발|KoBERT를 활용한 유사한 채용공고 추천시스템 개발|-ing|<a href="https://github.com/ge0nha0/10_Jobs-Recommender_System">Link</a>|
+|[고용노동부]|제2회 고용노동 공공데이터 활용 제품&서비스 개발|KoBERT를 활용한 유사한 채용공고 추천시스템 개발|-ing|<a href="https://github.com/ge0nha0/10_Jobs-Recommender_System">Link</a>|
 |[경찰대학교]|제1회 치안정책연구소 지역 치안 안전 데이터 분석|충청남도 ⋅대전시 ⋅세종시의 사고다발지역 분석|-|<a href="https://github.com/ge0nha0/Contests/tree/main/%5B%EA%B2%BD%EC%B0%B0%EB%8C%80%ED%95%99%EA%B5%90%20%EC%B9%98%EC%95%88%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C%5D%20%EC%A0%9C1%ED%9A%8C%20%EC%A7%80%EC%97%AD%20%EC%B9%98%EC%95%88%20%EC%95%88%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D">Link</a>|
 |[KML]|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://github.com/ge0nha0/Contests/tree/main/%5BKML%5D%20KML%202022F%20Final%20Exam_2022.12">Link</a>|
 |[KML]|KML Challenge 2022F |(주)스카우트 Salary Prediction Competition|9th|<a href="https://github.com/ge0nha0/Contests/tree/main/%5BKML%5D%20KML%20Challenge%202022F_2022.11">Link</a>|
