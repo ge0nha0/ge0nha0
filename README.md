@@ -49,7 +49,7 @@ I am especially interested in Computer Vision & Recommender System.
 |Supervision|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |[고용노동부]|제2회 고용노동 공공데이터 활용 제품 및 서비스 개발|KoBERT를 활용한 유사한 채용공고 추천시스템 개발|-ing|<a href="https://github.com/ge0nha0/10_Jobs-Recommender_System">Link</a>|
-|[경찰대학교 치안정책연구소]|제1회 지역 치안 안전 데이터 분석|충청남도 ⋅대전시 ⋅세종시의 사고다발지역 분석|-|<a href="https://github.com/ge0nha0/Contests/tree/main/%5B%EA%B2%BD%EC%B0%B0%EB%8C%80%ED%95%99%EA%B5%90%20%EC%B9%98%EC%95%88%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C%5D%20%EC%A0%9C1%ED%9A%8C%20%EC%A7%80%EC%97%AD%20%EC%B9%98%EC%95%88%20%EC%95%88%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D">Link</a>|
+|[경찰대학교치안정책연구소]|제1회 지역 치안 안전 데이터 분석|충청남도 ⋅대전시 ⋅세종시의 사고다발지역 분석|-|<a href="https://github.com/ge0nha0/Contests/tree/main/%5B%EA%B2%BD%EC%B0%B0%EB%8C%80%ED%95%99%EA%B5%90%20%EC%B9%98%EC%95%88%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C%5D%20%EC%A0%9C1%ED%9A%8C%20%EC%A7%80%EC%97%AD%20%EC%B9%98%EC%95%88%20%EC%95%88%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D">Link</a>|
 |[KML]|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://github.com/ge0nha0/Contests/tree/main/%5BKML%5D%20KML%202022F%20Final%20Exam_2022.12">Link</a>|
 |[KML]|KML Challenge 2022F |(주)스카우트 Salary Prediction Competition|9th|<a href="https://github.com/ge0nha0/Contests/tree/main/%5BKML%5D%20KML%20Challenge%202022F_2022.11">Link</a>|
 
@@ -64,7 +64,7 @@ I am especially interested in Computer Vision & Recommender System.
 |[전공]사회과학조사방법론|걷기 일수가 건강 관련 삶의 질(HINT-8)지수에 미치는 영향|SPSS, Excel|To be uploaded|
 |[교내 학회] D&A|신용카드 대금 연체 정도 예측|ML, Data Analysis|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%8C%80%EA%B8%88%20%EC%97%B0%EC%B2%B4%20%EC%A0%95%EB%8F%84%20%EC%98%88%EC%B8%A1">Link</a>|
 |[전공] 머신러닝|Categorical Feature Encoding|ML|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20Categorical%20Feature%20Encoding">Link</a>|
-|[전공] 빅데이터처리와   시각화|우리나라 업종별, 에너지원별 온실가스 배출량 데이터분석|Data Analysis, Visualization|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%97%85%EC%A2%85%EB%B3%84%2C%EC%97%90%EB%84%88%EC%A7%80%EC%9B%90%EB%B3%84%20%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%20%EB%B0%B0%EC%B6%9C%EB%9F%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%202022.06">Link</a>|
+|[전공] 빅데이터처리와    시각화|우리나라 업종별, 에너지원별 온실가스 배출량 데이터분석|Data Analysis, Visualization|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%97%85%EC%A2%85%EB%B3%84%2C%EC%97%90%EB%84%88%EC%A7%80%EC%9B%90%EB%B3%84%20%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%20%EB%B0%B0%EC%B6%9C%EB%9F%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%202022.06">Link</a>|
 |[교내 학회] D&A|COVID19 집단감염의 추이로 본 정책의 효과|Data Analysis, Visualization|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20COVID19%20%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%8E%E1%85%AE%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%20%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%AD%E1%84%80%E1%85%AA">Link</a>|
 |[전공] 공간빅데이터분석|마포구 생존 맛집분석|QGIS|To be uploaded|
 |[전공] 회귀분석|성인근로자의 근무형태·수면시간이 건강 관련 삶의 지수에 미치는 영향|R|To be uploaded|
