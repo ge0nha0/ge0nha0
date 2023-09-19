@@ -48,7 +48,7 @@ I am especially interested in Computer Vision & Recommender System.
 ## 🏆 Contest
 |Supervision|Name|Project|Award|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|[고용노동부]|제2회 고용노동 공공데이터 활용 <br>제품&서비스 개발|KoBERT를 활용한 유사한 채용공고 <br>추천시스템 개발|본선진출(7위)|<a href="https://github.com/ge0nha0/10_Jobs-Recommender_System">Link</a>|
+|[고용노동부]|제2회 고용노동 공공데이터 활용 <br>제품&서비스 개발|KoBERT를 활용한 유사한 채용공고 <br>추천시스템 개발|본선진출 <br>(7위)|<a href="https://github.com/ge0nha0/10_Jobs-Recommender_System">Link</a>|
 |[경찰대학교]|제1회 치안정책연구소 지역 치안 안전 데이터 분석|충청남도 ⋅대전시 ⋅세종시의 사고다발지역 분석|-|<a href="https://github.com/ge0nha0/Contests/tree/main/%5B%EA%B2%BD%EC%B0%B0%EB%8C%80%ED%95%99%EA%B5%90%20%EC%B9%98%EC%95%88%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C%5D%20%EC%A0%9C1%ED%9A%8C%20%EC%A7%80%EC%97%AD%20%EC%B9%98%EC%95%88%20%EC%95%88%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D">Link</a>|
 |[KML]|KML 2022F Final Exam | DNN Model Performance Competition|13th|<a href="https://github.com/ge0nha0/Contests/tree/main/%5BKML%5D%20KML%202022F%20Final%20Exam_2022.12">Link</a>|
 |[KML]|KML Challenge 2022F |(주)스카우트 Salary Prediction Competition|9th|<a href="https://github.com/ge0nha0/Contests/tree/main/%5BKML%5D%20KML%20Challenge%202022F_2022.11">Link</a>|
@@ -58,6 +58,7 @@ I am especially interested in Computer Vision & Recommender System.
 ## 👨🏻‍💻 Project
 |Supervision|Name|Tags|Link|
 |:---:|:---:|:---:|:---:|
+|[교내 학회] X:AI|Formula to Latex|CV|<a href="https://github.com/ge0nha0/4th-ADV-SESSION/tree/main/TeamCV2">Link</a>|
 |[Toy project] 논문적용|Wconcept 크롤링를 활용한 Fashion Classification|CV|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EC%99%B8%5D%20Wconcept%20%ED%81%AC%EB%A1%A4%EB%A7%81%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20Fashion%20Classification%202023.07">Link</a>|
 |[전공] 텍스트데이터분석|네이버 뉴스 API를 활용한 패션 키워드 기반 분석|NLP|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%89%B4%EC%8A%A4%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%A8%EC%85%98%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EB%B6%84%EC%84%9D%202023.06">Link</a>|
 |[전공] 딥러닝|AECBERT를 활용한 워크넷 구인구직 추천시스템 기획|RS|<a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20AECBERT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9B%8C%ED%81%AC%EB%84%B7%20%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%ED%9A%8D">Link</a>|
