@@ -68,7 +68,6 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 <details>
   <summary><b> 👩‍🏫 Projects </b></summary>
   <div markdown="2">
-      <li> <a href=""> <b>AI 면접 서비스 사용자 답변 평가를 위한 RAG & LLM 개발</b> | (주)위드마인드, 2024-   
       <li> <a href= "https://github.com/ge0nha0/KoBark"> KoBark: 소설 속 인물의 속성과 감정을 반영한 사용자 맞춤형 TTS 오디오북 | [빅데이터분석학회] D&A, 2023
       <li> <a href=""> 의료 특화 언어 모델을 사용한 입원 기간 예측	| [전공] 산업AI:캡스톤디자인, 2023 
       <li> <a href="https://github.com/ge0nha0/4th-ADV-SESSION/tree/main/TeamCV2"> Formula to Latex	 | [인공지능 학회] X:AI, 2023   
@@ -91,8 +90,8 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 <details>
   <summary><b> 🥇 Awards </b></summary>
   <div markdown="2">
-       <li> <a href="https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition">🏅채용공고 기반 추천서비스(W-BERT) 개발 (본선진출 7등) | 제2회 고용노동 공공데이터 활용 제품&서비스 개발 공모전, 2023 </a>
-       <li> <a href="https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition">제1회 치안정책연구소 지역 치안 안전 데이터 분석 | 경찰대학교, 2023 </a> 
+       <li> <a href="https://github.com/ge0nha0/jobjule">🏅채용공고 기반 추천서비스(W-BERT) 개발 (본선진출 7등) | 제2회 고용노동 공공데이터 활용 제품&서비스 개발 공모전, 2023 </a>
+       <li> <a href="https://github.com/ge0nha0/Contests/tree/main/%5B%EA%B2%BD%EC%B0%B0%EB%8C%80%ED%95%99%EA%B5%90%20%EC%B9%98%EC%95%88%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C%5D%20%EC%A0%9C1%ED%9A%8C%20%EC%A7%80%EC%97%AD%20%EC%B9%98%EC%95%88%20%EC%95%88%EC%A0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D">제1회 치안정책연구소 지역 치안 안전 데이터 분석 | 경찰대학교, 2023 </a> 
 
  </div>
 </details>
