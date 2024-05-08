@@ -14,7 +14,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 [![Blog](https://img.shields.io/badge/Velog-339933?style=flat-square&logo=Tistory&logoColor=white)](https://velog.io/@9e0na)
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/geonha8147@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fge0nha0%2Fge0nha0&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fge0nha0&count_bg=%235C3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 #### ⚔️ Languages & Development Tools
