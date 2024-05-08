@@ -8,8 +8,7 @@
 
 ### Hi. I'm Geonha Hwang. 🖐️
 dreaming of becoming an **Data Scientist, AI Researcher**.     
-**See my PortFoilo Here!** <a href="https://url.kr/dm3y1z"><img src="https://img.shields.io/badge/PortFolio-6aa84f?style=flat-square&logo=ghostery&logoColor=white"/></a>  
-
+**See my PortFoilo Here!** [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/dm3y1z)
 
 #### 📌 Profile  
 [![Blog](https://img.shields.io/badge/Velog-339933?style=flat-square&logo=Tistory&logoColor=white)](https://velog.io/@9e0na)
