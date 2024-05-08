@@ -59,7 +59,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
   <div markdown="2">
       <li> <a href="https://github.com/ge0nha0/Improving-the-performance-of-3D-pose-estimation-model-with-the-masking-module)"> 마스킹 모듈을 활용한 3D 자세 추정 모델의 성능 개선 | 논문 게재 예정
       <li> <a href= "https://github.com/ge0nha0/BEDLAM_Plus"> 동영상 속 신체 자세 정보를 이용한 딥러닝 기반 스포츠 동작 분석 | 실험중
-      <li> <a href= ""> 개인 맞춤형 사회보장 제공을 위한 프로파일링 구축 및 추천 모델 연구 - 거대언어모델(LLM) 기반 복지 자원 추천을 중심으로 | 2023년 자체연구과제 4차 최종보고회 개최 결과보고
+      <li> <a href= ""> 개인 맞춤형 사회보장 제공을 위한 프로파일링 구축 및 추천 모델 연구 | 2023년 자체연구과제 4차 최종보고회 개최 결과보고
       <li> <a href= "https://github.com/ge0nha0/ETViT"> ETViT: EfficientViT를 활용한 경량화에 대한 성능 비교 | 실험중
 
   </div>
@@ -73,7 +73,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
       <li> <a href=""> 의료 특화 언어 모델을 사용한 입원 기간 예측	| [전공] 산업AI:캡스톤디자인, 2023 
       <li> <a href="https://github.com/ge0nha0/4th-ADV-SESSION/tree/main/TeamCV2"> Formula to Latex	 | [인공지능 학회] X:AI, 2023   
       <li> <a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EC%99%B8%5D%20Wconcept%20%ED%81%AC%EB%A1%A4%EB%A7%81%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20Fashion%20Classification%202023.07"> Wconcept 크롤링를 활용한 Fashion Classification | [Toy project] 2023
-      <li> <a href="[https://github.com/Ji-eun-Kim/Text-Data-Analytics](https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%89%B4%EC%8A%A4%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%A8%EC%85%98%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EB%B6%84%EC%84%9D%202023.06)"> 네이버 뉴스 API를 활용한 패션 키워드 기반 분석 | [전공] 텍스트데이터분석, 2023   
+      <li> <a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%89%B4%EC%8A%A4%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%A8%EC%85%98%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EA%B8%B0%EB%B0%98%20%EB%B6%84%EC%84%9D%202023.06"> 네이버 뉴스 API를 활용한 패션 키워드 기반 분석 | [전공] 텍스트데이터분석, 2023   
       <li> <a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20AECBERT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9B%8C%ED%81%AC%EB%84%B7%20%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%ED%9A%8D"> AECBERT를 활용한 워크넷 구인구직 추천시스템 기획 | [전공] 딥러닝, 2023 
       <li> <a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B1%B7%EA%B8%B0%20%EC%9D%BC%EC%88%98%EA%B0%80%20%EA%B1%B4%EA%B0%95%20%EA%B4%80%EB%A0%A8%20%EC%82%B6%EC%9D%98%20%EC%A7%88(HINT-8)%EC%A7%80%EC%88%98%EC%97%90%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%98%81%ED%96%A5"> 걷기 일수가 건강 관련 삶의 질(HINT-8)지수에 미치는 영향	| [전공] 사회과학조사방법론, 2023  
       <li> <a href="https://github.com/ge0nha0/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%8C%80%EA%B8%88%20%EC%97%B0%EC%B2%B4%20%EC%A0%95%EB%8F%84%20%EC%98%88%EC%B8%A1"> 신용카드 사용자 연체 예측 AI 경진대회 | [빅데이터분석학회] D&A, 2022  
