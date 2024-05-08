@@ -1,5 +1,9 @@
 <!-- Header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=WELCOME&fontSize=90&desc=%20This%20is%20GeonHa's%20Github!&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=60&fontAlignY=40)
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&height=100&section=header&text=&fontSize=0" width='100%' />
+
+</div>
 
 
 ### Hi. I'm Geonha Hwang. 🖐️
@@ -123,4 +127,5 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 
 
 <!-- Footer banner -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
+<img src = 'https://capsule-render.vercel.app/api?type=waving&height=100&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
+</div>
