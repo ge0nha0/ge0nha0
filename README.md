@@ -6,7 +6,7 @@
 </div>
 
 
-### Hi! I'm Geonha Hwang. 🖐️
+### Hi. I'm Geonha Hwang. 🖐️
 dreaming of becoming an **Data Scientist, AI Researcher**.     
 **See my PortFoilo Here!** [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/dm3y1z)
 
@@ -49,7 +49,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
   <summary><b> 💼 Career </b></summary>
   <div markdown="2">
       <li> 국민대학교 AI빅데이터융합경영학과 3DVision 학부연구생 | 2023.09 - 
-      <li> 한국사회보장정보원 연구원 | 2023.08-12
+      <li> 한국사회보장정보원 SSiS 연구원 | 2023.08-12
       <li> 국민대학교 AI빅데이터융합경영학과 복수전공 | 수료
       <li> 국민대학교 행정학전공 주전공 | 수료
       <li> 서울 홍익대학교사범대학부속고등학교 | 졸업
@@ -120,7 +120,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
     <li> SQLD(한국데이터산업진흥원), 2024(영구)
     <li> 파이썬프로그래밍 활용능력 2급(한국정보인재개발원), 2022(영구)
     <li> ADsP(한국데이터산업진흥원), 2021(영구)     
-    <li> 컴퓨터활용능력 1급(대한상공회의소), 2021(영구)
+    <li> 컴퓨터 활용능력 1급(대한상공회의소), 2021(영구)
  </div>
 </details>
 
