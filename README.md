@@ -14,8 +14,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 <a href="https://velog.io/@9e0na" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/9e0na?igshid=MmIzYWVlNDQ5Yg==) 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/geonha8147@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fge0nha0&count_bg=%235C3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fge0nha0&count_bg=%23573DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### ⚔️ Languages & Development Tools
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
