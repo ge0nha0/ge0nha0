@@ -47,7 +47,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 <details>
   <summary><b> 💼 Career </b></summary>
   <div markdown="2">
-      <li> 국민대학교 AI빅데이터융합경영학과 3DVision 학부연구생 | 2023.09 - 
+      <li> 국민대학교 AI빅데이터융합경영학과 Computer Vision and MachineLearning Lab 학부연구생 | 2023.09 - 
       <li> 한국사회보장정보원 SSiS 연구원 | 2023.08-12
       <li> 국민대학교 AI빅데이터융합경영학과 복수전공 | 수료
       <li> 국민대학교 행정학전공 주전공 | 수료
