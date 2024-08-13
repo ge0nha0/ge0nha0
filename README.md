@@ -24,7 +24,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>
- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
  <br>
  <img src="https://img.shields.io/badge/Linux-DA3B8A?style=flat-square&logo=linux&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Ubuntu-E95427?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -39,7 +39,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
  
 </p>
 
