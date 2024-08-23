@@ -49,10 +49,10 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 <details>
   <summary><b> 💼 Career </b></summary>
   <div markdown="2">
-      <li> 국민대학교 AI빅데이터융합경영학과 Computer Vision and MachineLearning Lab 학부연구생 | 2023.09 - 
+      <li> 국민대학교 AI빅데이터융합경영학과 Computer Vision and MachineLearning Lab 학부연구생 | 2023.09 - 2024.08
       <li> 한국사회보장정보원 SSiS 연구원 | 2023.08-12
-      <li> 국민대학교 AI빅데이터융합경영학과 복수전공 | 수료
-      <li> 국민대학교 행정학전공 주전공 | 수료
+      <li> 국민대학교 AI빅데이터융합경영학과 복수전공 | 졸업
+      <li> 국민대학교 행정학전공 주전공 | 졸업
       <li> 서울 홍익대학교사범대학부속고등학교 | 졸업
 
   </div>
@@ -61,7 +61,7 @@ dreaming of becoming an **Data Scientist, AI Researcher**.
 <details>
   <summary><b> 📖 Research </b></summary>
   <div markdown="2">
-      <li> <a href="https://github.com/ge0nha0/Improving-the-performance-of-3D-pose-estimation-model-with-the-masking-module"> 마스킹 모듈을 활용한 3D 자세 추정 모델의 성능 개선 | 논문 게재 예정
+      <li> <a href="https://github.com/ge0nha0/Improving-the-performance-of-3D-pose-estimation-model-with-the-masking-module"> 마스킹 모듈을 활용한 3D 자세 추정 모델의 성능 개선 | 논문 게재(한국지능정보시스템학회)
       <li> <a href= "https://github.com/ge0nha0/BEDLAM_Plus"> 동영상 속 신체 자세 정보를 이용한 딥러닝 기반 스포츠 동작 분석 | 실험중
       <li> <a href= ""> 개인 맞춤형 사회보장 제공을 위한 프로파일링 구축 및 추천 모델 연구 | 2023년 자체연구과제 4차 최종보고회 개최 결과보고
       <li> <a href= "https://github.com/ge0nha0/ETViT"> ETViT: EfficientViT를 활용한 경량화에 대한 성능 비교 | 실험중
