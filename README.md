@@ -7,7 +7,7 @@
 
 
 ### Hi. I'm Geonha Hwang. 🖐️
-dreaming of becoming an **Data Scientist, AI Researcher**.     
+dreaming of becoming an **Digital Marketing(Data Scientist, Data Analyst)**.     
 **See my PortFoilo Here!** [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/dm3y1z)
 
 #### 📌 Profile  
