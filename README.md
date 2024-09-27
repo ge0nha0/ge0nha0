@@ -117,7 +117,7 @@ dreaming of becoming an **Digital Marketing(Data Scientist, Data Analyst)**.
 <details>
   <summary><b> 🪪 License </b></summary>
   <div markdown="2">
-    <li> 빅데이터분석기사(한국데이터산업진흥원), 2024(영구)
+    <li> 빅데이터분석기사(필기), 2024
     <li> SQLD(한국데이터산업진흥원), 2024(영구)
     <li> 파이썬프로그래밍 활용능력 2급(한국정보인재개발원), 2022(영구)
     <li> ADsP(한국데이터산업진흥원), 2021(영구)     
