@@ -8,7 +8,7 @@
 
 ### Hi. I'm Geonha Hwang. 🖐️
 dreaming of becoming an **Digital Marketing(Data Scientist, Data Analyst)**.     
-**See my PortFoilo Here!** [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/dm3y1z)
+**See my PortFoilo Here!**
 
 #### 📌 Profile  
 <a href="https://velog.io/@9e0na" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
